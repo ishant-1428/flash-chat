@@ -6,11 +6,11 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+With this app one could talk with their friends:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Some of the screen-shots from my app:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Flutter 1](https://user-images.githubusercontent.com/66118723/168068710-a5f73eed-b9fb-4cfb-aa24-748b4e3f23fa.jpeg)
+![Flutter 2](https://user-images.githubusercontent.com/66118723/168068717-ddda4294-495a-4d79-8f28-0c43410c6efb.jpeg)
+![Flutter 3](https://user-images.githubusercontent.com/66118723/168068723-b9e92247-d978-4dfa-b55e-157bb725cf4f.jpeg)
